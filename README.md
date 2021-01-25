@@ -19,6 +19,19 @@ This project was developed by [Callum Asplen](https://github.com/Casplen), [Dana
 * Sorting
 * Expanding the quiz
 
+
+## Setup
+Route into the CLIENT folder
+  npm i
+  npm run build
+  npm run serve
+leave this terminal running in the background
+ 
+Open a new terminal and route into the SERVER folder
+  npm run start
+  refresh the browser tab
+
+
 ## Screeenshots
 
 ### Hope Page
